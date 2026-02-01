@@ -1,0 +1,19 @@
+Excited to share my first project completion for the CodeAlpha Cybersecurity Internship! 🚀
+
+✅ Task 1: Basic Network Sniffer
+
+I've developed a Python-based network packet analyzer that:
+• Captures and analyzes network traffic packets
+• Identifies protocols (TCP/UDP), IP addresses, and ports
+• Displays MAC addresses and service information
+• Implements safe packet capture with limits
+
+This project helped me understand:
+🔹 Network packet structure and protocol layers
+🔹 Real-time traffic analysis techniques
+🔹 Ethical hacking fundamentals
+🔹 Python networking with Scapy library
+
+GitHub Repository: https://github.com/taseeer/CodeAlpha_NetworkSniffer
+
+#CodeAlpha #CyberSecurity #Internship #NetworkSecurity #Python #EthicalHacking #PacketSniffer #InfoSec #LearningJourney @CodeAlpha
